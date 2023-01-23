@@ -1,4 +1,4 @@
-# Simulador para taxas MDR
+# KenzieHub
 
 Projeto acadêmico com o objetivo de desenvolver as features de login e cadastro utilizando Typescript, React Hook Form, Yup e requisições de POST.
 
